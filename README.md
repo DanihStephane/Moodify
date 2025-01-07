@@ -115,4 +115,6 @@ Moodify emphasizes user experience through:
 - Mood board creation
 - Color scheme exploration
 
-Licence free : 
+Licence free : https://github.com/DanihStephane
+
+https://linkedin.com/in/danihstephane
