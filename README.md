@@ -4,6 +4,15 @@ A modern web application for creating interactive visual mood boards. Express yo
 
 ![Moodify Preview](https://images.unsplash.com/photo-1611532736576-6c25e3be4dd5?auto=format&fit=crop&q=80&w=1200&h=630)
 
+![Capture d’écran du 2025-01-07 18-07-23](https://github.com/user-attachments/assets/220bda58-46e1-4d97-a932-0e8ddbb6ea28)
+
+![Capture d’écran du 2025-01-07 18-07-29](https://github.com/user-attachments/assets/e4990237-0174-4de3-b52e-52aa26de69e7)
+
+![Capture d’écran du 2025-01-07 18-07-53](https://github.com/user-attachments/assets/4401b906-4d2a-4052-8083-fc0409d5794f)
+
+![Capture d’écran du 2025-01-07 18-08-03](https://github.com/user-attachments/assets/7c834b3c-292c-45bb-ac8b-c6f5be5aa813)
+
+
 ## ✨ Features
 
 ### 🖱️ Interactive Drag & Drop
@@ -105,3 +114,5 @@ Moodify emphasizes user experience through:
 - Visual brainstorming
 - Mood board creation
 - Color scheme exploration
+
+Licence free : 
