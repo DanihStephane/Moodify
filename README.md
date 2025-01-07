@@ -1,3 +1,5 @@
+application under development...
+
 # 🎨 Moodify
 
 A modern web application for creating interactive visual mood boards. Express your creativity through a dynamic drag-and-drop interface.
